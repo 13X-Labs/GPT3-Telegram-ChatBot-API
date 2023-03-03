@@ -1,0 +1,1 @@
+pm2 start 'export REPLICATE_API_TOKEN=xxxxxxxxxxxx & python api.py' --name "API AI Image"
